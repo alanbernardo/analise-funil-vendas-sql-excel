@@ -18,7 +18,8 @@ O dashboard em Excel apresenta:
 - **Visitas ao site por dia da semana**
 - Mapa com **estados que mais venderam no mês**
 
-![Dashboard de funil de vendas](./Painel%20de%20controle.png)
+![Dashboard de funil de vendas](https://raw.githubusercontent.com/alanbernardo/analise-funil-vendas-sql-excel/main/Painel%20de%20controle.png)
+
 
 ---
 
