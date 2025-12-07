@@ -21,6 +21,7 @@ O dashboard em Excel apresenta:
 ![Dashboard de funil de vendas](Painel%20de%20controle.png)
 
 
+
 ---
 
 ## 🗂 Estrutura do Repositório
