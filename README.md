@@ -32,3 +32,5 @@ analise-funil-vendas-sql-excel/
     ├── query3_marcas_mais_vendidas.sql
     ├── query4_lojas_mais_vendidas.sql
     └── query5_visitas_por_dia_semana.sql
+
+<img width="1106" height="608" alt="image" src="https://github.com/user-attachments/assets/555aa189-ce73-41a7-95d2-9307eb01f6a8" />
