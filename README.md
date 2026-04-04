@@ -59,7 +59,8 @@ O dashboard apresenta os seguintes indicadores:
 
 ## 🖼️ Dashboard
 
-![Dashboard do projeto](./Painel%20de%20controle.png)
+<img width="1114" height="610" alt="image" src="https://github.com/user-attachments/assets/af264ae6-7a97-41e8-9de5-7127623daf6f" />
+
 
 ---
 
