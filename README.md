@@ -65,12 +65,11 @@ O dashboard apresenta os seguintes indicadores:
 ```text
 analise-funil-vendas-sql-excel/
 │
-├── analise_funnel_sql_dashboard.xlsx   # Arquivo principal com as abas Dashboard, Resultados e Queries
-├── Painel de controle.png              # Print do dashboard em Excel
-└── sql/                                # Consultas SQL usadas na análise
+├── analise_funnel_sql_dashboard.xlsx
+├── Painel de controle.png
+└── sql/
     ├── query1_receita_leads_conversao.sql
     ├── query3_marcas_mais_vendidas.sql
     ├── query4_lojas_mais_vendidas.sql
     └── query5_visitas_por_dia_semana.sql
-
 
