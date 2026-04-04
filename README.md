@@ -58,7 +58,6 @@ O dashboard apresenta os seguintes indicadores:
 ---
 
 <img width="856" height="329" alt="image" src="https://github.com/user-attachments/assets/107be527-00bb-42ab-b5af-89d63d078e30" />
-
 ----
 
 ## 🗂 Estrutura do Repositório
